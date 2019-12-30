@@ -93,7 +93,7 @@ The meeting food & drinks will be sponsored by TBD.
 a member of the Red Team at State Farm.
 
 **Where:** State Farm Insurance - 3661 N. Plano Rd. Suite 1000 -
-Richardson, TX - [Map](Media:Citylink_map.pdf "wikilink")
+Richardson, TX - [Map](/www-pdf-archive/Citylink_map.pdf )
 
 ## July Meeting
 
@@ -107,7 +107,7 @@ Engineer at Capital One.
 **Where:** Toyota Motor North America, Inc. - 6565 Headquarters Drive,
 Plano, TX
 
-[Media:Cloud_-_The_Hard_Way.pdf](Media:Cloud_-_The_Hard_Way.pdf "wikilink")
+[/www-pdf-archive/Cloud_-_The_Hard_Way.pdf](/www-pdf-archive/Cloud_-_The_Hard_Way.pdf )
 
 ## June Meeting
 
@@ -122,7 +122,7 @@ such as Finance, Healthcare, Enterprise and Govt./Education.
 
 **Where:** Capital Factory + The DEC - 3102 Oak Lawn Ave - Dallas, TX
 
-[Media:UberPasscodes-AntiPhishing2FA-PresArchive.pdf](Media:UberPasscodes-AntiPhishing2FA-PresArchive.pdf "wikilink")
+[/www-pdf-archive/UberPasscodes-AntiPhishing2FA-PresArchive.pdf](/www-pdf-archive/UberPasscodes-AntiPhishing2FA-PresArchive.pdf )
 
 ## May Meeting
 
@@ -136,7 +136,7 @@ David Bohannon is a Senior Security Consultant at Synopsys.
 
 **Where:** The Garage at Capital One - 8000 Dominion Pkwy - Plano, TX -
 Building with TC out front
-[Media:Microservices_OWASP_Preso_Sanitized.pptx](Media:Microservices_OWASP_Preso_Sanitized.pptx "wikilink")
+[Media:Microservices_OWASP_Preso_Sanitized.pptx](Media:Microservices_OWASP_Preso_Sanitized.pptx )
 
 ## March Meeting
 
@@ -158,7 +158,7 @@ where he leads the Software Security Initiatives (SSI) practice
 
 **Where:** Epsilon - 6021 Connection Drive - Irving, TX
 
-[Media:Owasp-dallas.pptx](Media:Owasp-dallas.pptx "wikilink")
+[Media:Owasp-dallas.pptx](Media:Owasp-dallas.pptx )
 
 ## January Meeting
 
@@ -174,7 +174,7 @@ Liam Randall, President and Co-Founder of Critical Stack
 
 **Where:** Capital One - 8000 Dominion Pkwy - Plano, TX
 
-[Media:OWASP_dallas_Jan_2019.zip](Media:OWASP_dallas_Jan_2019.zip "wikilink")
+[Media:OWASP_dallas_Jan_2019.zip](Media:OWASP_dallas_Jan_2019.zip )
 
 ## November Meeting
 
@@ -271,7 +271,7 @@ Synopsys here in the Dallas area.
 TX
 
 **Materials**:
-[Media:Bugs_in_the_Blockchain.pptx](Media:Bugs_in_the_Blockchain.pptx "wikilink")
+[Media:Bugs_in_the_Blockchain.pptx](Media:Bugs_in_the_Blockchain.pptx )
 
 ## January Meeting
 
@@ -346,7 +346,7 @@ Security experience.
 **Where:** Toyota - 5360 Legacy Drive, Building 1, 2nd Floor, Plano, TX
 
 **Materials**:
-[media:Hot_Rodding_and_Hacking_v3.pdf](media:Hot_Rodding_and_Hacking_v3.pdf "wikilink")
+[/www-pdf-archive/Hot_Rodding_and_Hacking_v3.pdf](/www-pdf-archive/Hot_Rodding_and_Hacking_v3.pdf )
 
 ## May Meeting
 
@@ -372,7 +372,7 @@ North America.
 Dallas, TX
 
 **Materials**:
-[media:AWS_Security_-_Staying_on_Top_of_the_Cloud.pdf](media:AWS_Security_-_Staying_on_Top_of_the_Cloud.pdf "wikilink")
+[/www-pdf-archive/AWS_Security_-_Staying_on_Top_of_the_Cloud.pdf](/www-pdf-archive/AWS_Security_-_Staying_on_Top_of_the_Cloud.pdf )
 
 ## March Meeting
 
@@ -387,7 +387,7 @@ author who has been in the information security field for two decades.
 **Where:** Intuit, Inc. - 5601 Headquarters Dr, Plano, TX
 
 **Materials**:
-[media:2017.03_OWASP_Dallas_Presentation_v5.pdf](media:2017.03_OWASP_Dallas_Presentation_v5.pdf "wikilink")
+[/www-pdf-archive/2017.03_OWASP_Dallas_Presentation_v5.pdf](/www-pdf-archive/2017.03_OWASP_Dallas_Presentation_v5.pdf )
 [(More
 Info)](https://www.securitycompass.com/managingapplicationsecurity2017/)
 
@@ -404,7 +404,7 @@ organizations.
 **Where:** 8000 Dominion Pkwy, Plano, TX - Capital One
 
 **Materials**:
-[Media:Microservice_Security.pdf](Media:Microservice_Security.pdf "wikilink")
+[/www-pdf-archive/Microservice_Security.pdf](/www-pdf-archive/Microservice_Security.pdf )
 
 ## January Meeting
 
@@ -476,7 +476,7 @@ and the creator of Web Application Exploitation Distro
 Sachs
 
 **Materials**:
-[Media:OWASP-pentest-with-powershell.pptx](Media:OWASP-pentest-with-powershell.pptx "wikilink")
+[Media:OWASP-pentest-with-powershell.pptx](Media:OWASP-pentest-with-powershell.pptx )
 
 ## June Meeting
 
@@ -489,7 +489,7 @@ Sachs
 **Where:** 8000 Dominion Pkwy, Plano, TX - Capital One
 
 **Materials**:
-[Media:Cigital_Top10_DallasOWASP-062116.pdf](Media:Cigital_Top10_DallasOWASP-062116.pdf "wikilink")
+[/www-pdf-archive/Cigital_Top10_DallasOWASP-062116.pdf](/www-pdf-archive/Cigital_Top10_DallasOWASP-062116.pdf )
 
 ## May Meeting
 
@@ -503,7 +503,7 @@ security and Risk Management at Thomson Reuters, Carrollton TX.
 **Where:** 6011 Connection Drive, Irving, TX 75039 - Goldman Sachs.
 
 **Materials**:
-[Media:OWASP_May17th_Password-less-logins.pdf](Media:OWASP_May17th_Password-less-logins.pdf "wikilink")
+[/www-pdf-archive/OWASP_May17th_Password-less-logins.pdf](/www-pdf-archive/OWASP_May17th_Password-less-logins.pdf )
 
 ## April Meeting
 
@@ -528,7 +528,7 @@ and is an active member of Collin’s Cyber Security Advisory Board.
 **Where:** Epsilon - 6021 Connection Drive, Irving, TX.
 
 **Materials**:
-[Media:March_2016_OWASP_-_Secure_SDLC_Presentation_and_Related_Material.zip](Media:March_2016_OWASP_-_Secure_SDLC_Presentation_and_Related_Material.zip "wikilink")
+[Media:March_2016_OWASP_-_Secure_SDLC_Presentation_and_Related_Material.zip](Media:March_2016_OWASP_-_Secure_SDLC_Presentation_and_Related_Material.zip )
 
 ## February Meeting
 
@@ -631,7 +631,7 @@ Security Standards Council
 Sabine Hall: SH117
 
 **Slides**: [Media:Dallas OWASP
-9-11-2013.pdf](Media:Dallas_OWASP_9-11-2013.pdf "wikilink")
+9-11-2013.pdf](/www-pdf-archive/Dallas_OWASP_9-11-2013.pdf )
 
 ## May Meeting
 
@@ -663,4 +663,4 @@ Sabine Hall: SH117
 
 <headertabs></headertabs>
 
-[Category:Texas](Category:Texas "wikilink")
+[Category:Texas](Category:Texas )
