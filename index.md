@@ -17,6 +17,7 @@ Thank you for your interest in the Dallas OWASP chapter. Please consider joining
 ## OWASP Dallas March Meeting
 - When:  Tuesday, March 24, 2020 - 6:00 PM
 - Title:  Ultimate Secure Coding Throw Down
+
 *** PRE-REGISTER FOR THE TOURNAMENT USING URL BELOW ***
 https://discover.securecodewarrior.com/OWASPDallas.html
 - Bio:  Derek Orgeron is an Enterprise Account Executive for Secure Code Warrior, a global security company that makes software development better and more secure. After spending his entire career in the technology and SAAS space, Derek is passionate about educating organizations on better security coding practices and building lasting partnerships. Prior to joining Secure Code Warrior, Derek worked for Anaconda, a software platform dedicated to helping developers, data scientists, and larger enterprise organizations use open source Python/R in a secure manner.
