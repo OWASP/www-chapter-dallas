@@ -14,14 +14,16 @@ auto-migrated: 1
 ## Welcome
 Thank you for your interest in the Dallas OWASP chapter. Please consider joining us at our next [Meetup](https://www.meetup.com/Dallas-The-Open-Web-Application-Security-Project-Meetup/) event so we can get to know you better.
 
-## OWASP Dallas February Meeting
-- When:  Tuesday, February 18, 2020 - 6:00 PM
-- Title:  Penetration Testing in the Enterprise
-- Bio:  Tim Witos, is an information security and information technology professional. In the field since 2006, he has worked as a product security leader at Experian as well as developed a technology consulting practice at RSM US LLP (formerly McGladrey). He has led global service capabilities at numerous companies -- including a global security testing program across 37 countries. Tim enjoys t-shirts, scotch and air travel.
-- Description:  A multinational application penetration testing program involves more than just great penetration testers. Scheduling, scoring, and cultural understanding can mean the difference between a successful model and a catastrophic failure. We’ll dive into some best practices I’ve extracted from running a real-world application penetration testing program across product teams in over 30 countries.
-- Location:  McKesson Corporation 6535-6555 State Hwy 161, Irving, TX
-- How to find us:  Arrive at Building A. Visitor parking out front. Parking garage is available for overflow - use the intercom to alert security you are with OWASP. Once inside inform security that you are with OWASP and they will guide you to conference center.
-- Sponsorship:  The meeting food & drinks will be sponsored by McKesson.
+## OWASP Dallas March Meeting
+- When:  Tuesday, March 24, 2020 - 6:00 PM
+- Title:  Ultimate Secure Coding Throw Down
+*** PRE-REGISTER FOR THE TOURNAMENT USING URL BELOW ***
+https://discover.securecodewarrior.com/OWASPDallas.html
+- Bio:  Derek Orgeron is an Enterprise Account Executive for Secure Code Warrior, a global security company that makes software development better and more secure. After spending his entire career in the technology and SAAS space, Derek is passionate about educating organizations on better security coding practices and building lasting partnerships. Prior to joining Secure Code Warrior, Derek worked for Anaconda, a software platform dedicated to helping developers, data scientists, and larger enterprise organizations use open source Python/R in a secure manner.
+- Description:  Are. You. Ready? Head to the AppSec battlefield and prove that you are the ultimate secure coding champion. Go head-to-head with your peers as you test your web application security knowledge of the OWASP Top 10. Strut your skills. Crush the competition. Score excellent prizes and take home the title of Secure Code Warrior! The same application security vulnerabilities that plagued developers 10 years ago still exist asa problems today. Coders know how to code, but can they code securely? True security champions are hard to find, but they can be hiding in your midst. Maybe it's you?? Time to prove your skills. Players will be presented with a series of vulnerable code challenges that will ask them to identify the problem, locate the insecure code, and fix the vulnerability. It's gamified, it's relevant, but most of all - it's fun. Watch as you earn points and climb to the top of the real-time leaderboard during the event. Prizes will be awarded to the top 3 point scorers, with one security superhero being crowned the ultimate Secure Code Warrior. Will it be you?
+- Location:  Toyota Motor North America, Inc. - 6565 Headquarters Drive, Plano, TX
+- How to find us:  Guests may park in the visitors parking area on Headquarters Dr. right outside main lobby in front of W1 and E1 buildings. Enter the main lobby to sign in. Meeting will be in the Corolla W1-0C-18 / Camry W1-0C-30 conference rooms.
+- Sponsorship:  The meeting food & drinks will be sponsored by Toyota.
 - Everyone is welcome to join us at our chapter meetings.
 
 ## Participation
