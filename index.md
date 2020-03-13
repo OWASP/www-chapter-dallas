@@ -15,7 +15,7 @@ auto-migrated: 1
 Thank you for your interest in the Dallas OWASP chapter. Please consider joining us at our next [Meetup](https://www.meetup.com/Dallas-The-Open-Web-Application-Security-Project-Meetup/) event so we can get to know you better.
 
 ## OWASP Dallas March Meeting
-- When:  Tuesday, March 24, 2020 - 6:00 PM
+- When:  Tuesday, May 19, 2020 - 6:00 PM
 - Title:  Ultimate Secure Coding Throw Down
 
 *** PRE-REGISTER FOR THE TOURNAMENT USING URL BELOW ***
