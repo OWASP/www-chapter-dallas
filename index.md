@@ -5,9 +5,7 @@ title: OWASP Dallas
 tags: Dallas Fort Worth
 level: 0
 
-region: United States
-
-auto-migrated: 1
+region: North America
 
 ---
 
