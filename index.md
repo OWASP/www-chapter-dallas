@@ -6,6 +6,9 @@ tags: Dallas Fort Worth
 level: 0
 
 region: North America
+meetup-group: Dallas-The-Open-Web-Application-Security-Project-Meetup
+country: USA
+postal-code: 75201
 
 ---
 
