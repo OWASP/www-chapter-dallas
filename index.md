@@ -15,18 +15,13 @@ postal-code: 75201
 ## Welcome
 Thank you for your interest in the Dallas OWASP chapter. Please consider joining us at our next [Meetup](https://www.meetup.com/Dallas-The-Open-Web-Application-Security-Project-Meetup/) event so we can get to know you better.
 
-## OWASP Dallas March Meeting
-- When:  Tuesday, May 19, 2020 - 6:00 PM
-- Title:  Ultimate Secure Coding Throw Down
-
-*** PRE-REGISTER FOR THE TOURNAMENT USING URL BELOW ***
-
-https://discover.securecodewarrior.com/OWASPDallas.html
-- Bio:  Derek Orgeron is an Enterprise Account Executive for Secure Code Warrior, a global security company that makes software development better and more secure. After spending his entire career in the technology and SAAS space, Derek is passionate about educating organizations on better security coding practices and building lasting partnerships. Prior to joining Secure Code Warrior, Derek worked for Anaconda, a software platform dedicated to helping developers, data scientists, and larger enterprise organizations use open source Python/R in a secure manner.
-- Description:  Are. You. Ready? Head to the AppSec battlefield and prove that you are the ultimate secure coding champion. Go head-to-head with your peers as you test your web application security knowledge of the OWASP Top 10. Strut your skills. Crush the competition. Score excellent prizes and take home the title of Secure Code Warrior! The same application security vulnerabilities that plagued developers 10 years ago still exist asa problems today. Coders know how to code, but can they code securely? True security champions are hard to find, but they can be hiding in your midst. Maybe it's you?? Time to prove your skills. Players will be presented with a series of vulnerable code challenges that will ask them to identify the problem, locate the insecure code, and fix the vulnerability. It's gamified, it's relevant, but most of all - it's fun. Watch as you earn points and climb to the top of the real-time leaderboard during the event. Prizes will be awarded to the top 3 point scorers, with one security superhero being crowned the ultimate Secure Code Warrior. Will it be you?
-- Location:  Toyota Motor North America, Inc. - 6565 Headquarters Drive, Plano, TX
-- How to find us:  Guests may park in the visitors parking area on Headquarters Dr. right outside main lobby in front of W1 and E1 buildings. Enter the main lobby to sign in. Meeting will be in the Corolla W1-0C-18 / Camry W1-0C-30 conference rooms.
-- Sponsorship:  The meeting food & drinks will be sponsored by Toyota.
+## OWASP Dallas October Meeting
+- When:  Tuesday, October 6, 2020 - 12:00 PM to 1:00 PM CDT
+- Title:  Inside the Mind of a Threat Actor: Beyond Pentesting
+- Bio:  Phillip Wylie is a Lead Curriculum Developer at Point3 Federal, Adjunct Instructor at Dallas College (formerly Richland College), and The Pwn School Project founder. Phillip has 23 years of experience with the last 8.5 years spent as a pentester. Phillip has a passion for mentoring and education. His passion motivated him to start teaching and founding The Pwn School Project. The Pwn School Project is a monthly educational meetup focusing on ethical hacking. Phillip teaches Ethical Hacking and Web Application Pentesting at Dallas College in Dallas, TX. Phillip holds the following certifications; CISSP, NSA-IAM, OSCP, GWAPT.
+- Description:  Red team is a commonly misunderstood offensive security discipline. Red team has been used as a general term for all areas of offensive security just as blue team for defensive security. True red teaming goes Beyond Pentesting and into more adversarial emulation. While there are overlapping skills, there are differences that will be discussed as Phillip shares his experience of going from a pentester to a red teamer. In this talk, you will learn about the different areas that make up red team operations, common tools, and the path to becoming a red teamer. In this presentation, you will learn about resources helpful for a path into red teaming.
+- Location:  Online Meetup
+- How to find us:  Reserve your spot on the Meetup Website.
 - Everyone is welcome to join us at our chapter meetings.
 
 ## Participation
