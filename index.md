@@ -21,7 +21,7 @@ Thank you for your interest in the Dallas OWASP chapter. Please consider joining
 - Bio:  Phillip Wylie is a Lead Curriculum Developer at Point3 Federal, Adjunct Instructor at Dallas College (formerly Richland College), and The Pwn School Project founder. Phillip has 23 years of experience with the last 8.5 years spent as a pentester. Phillip has a passion for mentoring and education. His passion motivated him to start teaching and founding The Pwn School Project. The Pwn School Project is a monthly educational meetup focusing on ethical hacking. Phillip teaches Ethical Hacking and Web Application Pentesting at Dallas College in Dallas, TX. Phillip holds the following certifications; CISSP, NSA-IAM, OSCP, GWAPT.
 - Description:  Red team is a commonly misunderstood offensive security discipline. Red team has been used as a general term for all areas of offensive security just as blue team for defensive security. True red teaming goes Beyond Pentesting and into more adversarial emulation. While there are overlapping skills, there are differences that will be discussed as Phillip shares his experience of going from a pentester to a red teamer. In this talk, you will learn about the different areas that make up red team operations, common tools, and the path to becoming a red teamer. In this presentation, you will learn about resources helpful for a path into red teaming.
 - Location:  Online Meetup
-- How to find us:  Reserve your spot on the Meetup Website.
+- How to find us:  Reserve your spot on the [Meetup](https://www.meetup.com/Dallas-The-Open-Web-Application-Security-Project-Meetup/) Website.
 - Everyone is welcome to join us at our chapter meetings.
 
 ## Participation
