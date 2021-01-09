@@ -30,7 +30,7 @@ This talk will:<br>
   - Show how AWS security features can help support the recommendations in the ETSI standard by working through a practical use case: EZTEA<br> <br>
 
 - <b>Location:</b>  Online Meetup
-- </b>How to find us:</b>  Reserve your spot on the [Meetup](https://www.meetup.com/Dallas-The-Open-Web-Application-Security-Project-Meetup/) Website.
+- <b>How to find us:</b>  Reserve your spot on the [Meetup](https://www.meetup.com/Dallas-The-Open-Web-Application-Security-Project-Meetup/) Website.
 - <b>Everyone is welcome to join us at our chapter meetings.</b>
 
 ## Participation
