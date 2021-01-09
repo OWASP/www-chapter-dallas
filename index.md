@@ -15,11 +15,16 @@ postal-code: 75201
 ## Welcome
 Thank you for your interest in the Dallas OWASP chapter. Please consider joining us at our next [Meetup](https://www.meetup.com/Dallas-The-Open-Web-Application-Security-Project-Meetup/) event so we can get to know you better.
 
-## OWASP Dallas October Meeting
-- When:  Tuesday, October 6, 2020 - 12:00 PM to 1:00 PM CDT
-- Title:  Inside the Mind of a Threat Actor: Beyond Pentesting
-- Bio:  Phillip Wylie is a Lead Curriculum Developer at Point3 Federal, Adjunct Instructor at Dallas College (formerly Richland College), and The Pwn School Project founder. Phillip has 23 years of experience with the last 8.5 years spent as a pentester. Phillip has a passion for mentoring and education. His passion motivated him to start teaching and founding The Pwn School Project. The Pwn School Project is a monthly educational meetup focusing on ethical hacking. Phillip teaches Ethical Hacking and Web Application Pentesting at Dallas College in Dallas, TX. Phillip holds the following certifications; CISSP, NSA-IAM, OSCP, GWAPT.
-- Description:  Red team is a commonly misunderstood offensive security discipline. Red team has been used as a general term for all areas of offensive security just as blue team for defensive security. True red teaming goes Beyond Pentesting and into more adversarial emulation. While there are overlapping skills, there are differences that will be discussed as Phillip shares his experience of going from a pentester to a red teamer. In this talk, you will learn about the different areas that make up red team operations, common tools, and the path to becoming a red teamer. In this presentation, you will learn about resources helpful for a path into red teaming.
+## OWASP Dallas January Meeting
+- When:  Tuesday, January 26, 2021 - 12:00 PM to 1:00 PM CST
+- Title:  IoT Security’s Lucky 13
+- Bio:  Jennifer Janesko is a Senior Consultant at Synopys, Inc. and has worked in security for the past six years focusing on cloud, IoT and application security. Prior to her transition to information security, Jennifer worked for over 15 years in IT as a developer and leader in the areas of education, telecommunications, and semiconductors. She volunteers as an organizer for the yearly BSidesMunich security conference and the security group MUC:SEC e.V.. In her free time, Jennifer enjoys running, hiking, competing in (and making) CTFs and tinkering with technologies.
+- Description:  AWS offers an IoT stack that has the goal of simplifying gaining value from smart device - edge device - cloud orchestration. The stack is deceptively simple to use, but, as always, the devil is in the detail when it comes to security.
+This talk will:
+* Introduce the AWS IoT stack
+* Provide a quick overview of the ETSI EN[masked] security guidelines
+* Show how AWS security features can help support the recommendations in the ETSI standard by working through a practical use case: EZTEA
+
 - Location:  Online Meetup
 - How to find us:  Reserve your spot on the [Meetup](https://www.meetup.com/Dallas-The-Open-Web-Application-Security-Project-Meetup/) Website.
 - Everyone is welcome to join us at our chapter meetings.
