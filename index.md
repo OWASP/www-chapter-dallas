@@ -20,7 +20,7 @@ Thank you for your interest in the Dallas OWASP chapter. Please consider joining
 Tuesday, January 26, 2021 - 12:00 PM to 1:00 PM CST<br> 
 - <b>Title:</b>
 IoT Security’s Lucky 13<br> 
-- <b>Bio:</b>
+- <b>Bio:</b><br> 
 Jennifer Janesko is a Senior Consultant at Synopys, Inc. and has worked in security for the past six years focusing on cloud, IoT and application security. Prior to her transition to information security, Jennifer worked for over 15 years in IT as a developer and leader in the areas of education, telecommunications, and semiconductors. She volunteers as an organizer for the yearly BSidesMunich security conference and the security group MUC:SEC e.V.. In her free time, Jennifer enjoys running, hiking, competing in (and making) CTFs and tinkering with technologies.
 - <b>Description:</b>  
 AWS offers an IoT stack that has the goal of simplifying gaining value from smart device - edge device - cloud orchestration. The stack is deceptively simple to use, but, as always, the devil is in the detail when it comes to security.<br>
