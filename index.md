@@ -26,9 +26,9 @@ You can find tournament step-by-step guide here: https://youtu.be/o8XhKK_eOOs
 The tournament is run virtually so you can join through your laptop from the most convenient location. Complete all the challenges and win prizes! Once you register, keep an eye out for your confirmation email with instructions and the Zoom link for the day of the tournament!
 
 Instructions for playing:
-1) Register for the Secure Code Warrior platform here: https://discover.securecodewarrior.com/OWASPDallas-tournament.html
-2) Once logged in, click “Tournaments”
-3) Join the OWASP Dallas Secure Coding Tournament
+ - Register for the Secure Code Warrior platform here: https://discover.securecodewarrior.com/OWASPDallas-tournament.html
+ - Once logged in, click “Tournaments”
+ - Join the OWASP Dallas Secure Coding Tournament
 
 The Secure Code Warrior platform will be open before and after the tournament, so feel free to practice in the “Training” tab.
 
