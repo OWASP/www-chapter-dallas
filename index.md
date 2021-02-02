@@ -15,7 +15,7 @@ postal-code: 75201
 ## Welcome
 Thank you for your interest in the Dallas OWASP chapter. Please consider joining us at our next [Meetup](https://www.meetup.com/Dallas-The-Open-Web-Application-Security-Project-Meetup/) event so we can get to know you better.
 
-## OWASP Dallas April Meeting
+## OWASP Dallas February Meeting
 - <b>When:</b><br> Tuesday, February 23, 2021 - 12:00 PM to 1:00 PM CST<br><br>
 - <b>Title:</b><br> Secure Coding Tournament<br><br>
 - <b>Info:</b><br> 
