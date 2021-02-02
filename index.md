@@ -16,9 +16,9 @@ postal-code: 75201
 Thank you for your interest in the Dallas OWASP chapter. Please consider joining us at our next [Meetup](https://www.meetup.com/Dallas-The-Open-Web-Application-Security-Project-Meetup/) event so we can get to know you better.
 
 ## OWASP Dallas February Meeting
-- <b>When:</b><br> Tuesday, February 23, 2021 - 12:00 PM to 1:00 PM CST<br><br>
-- <b>Title:</b><br> Secure Coding Tournament<br><br>
-- <b>Info:</b><br> 
+<b>When:</b><br> Tuesday, February 23, 2021 - 12:00 PM to 1:00 PM CST<br><br>
+<b>Title:</b><br> Secure Coding Tournament<br><br>
+<b>Info:</b><br> 
 We’ve partnered with Secure Code Warrior to bring you a defensive security-based tournament from a developer's perspective. The tournament allows you to test your skill against the other participants in a series of vulnerable code challenges that ask you to identify a problem, locate insecure code, and fix a vulnerability.
 
 You can find tournament step-by-step guide here: https://youtu.be/o8XhKK_eOOs
@@ -26,7 +26,7 @@ You can find tournament step-by-step guide here: https://youtu.be/o8XhKK_eOOs
 The tournament is run virtually so you can join through your laptop from the most convenient location. Complete all the challenges and win prizes! Once you register, keep an eye out for your confirmation email with instructions and the Zoom link for the day of the tournament!
 
 Instructions for playing:
- - Register for the Secure Code Warrior platform here: https://discover.securecodewarrior.com/OWASPDallas-tournament.html
+ - Register for the Secure Code Warrior platform here: <br>https://discover.securecodewarrior.com/OWASPDallas-tournament.html<br>
  - Once logged in, click “Tournaments”
  - Join the OWASP Dallas Secure Coding Tournament
 
