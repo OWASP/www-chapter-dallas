@@ -37,7 +37,7 @@ Monitor the live leaderboard to see how you're performing!
 Please note: You must register at the link above in order to play.
 
 - <b>Location:</b>  Regular meetings are currently online<br> 
-- <b>How to find us:</b>  Reserve your spot on the [Meetup](https://www.meetup.com/Dallas-The-Open-Web-Application-Security-Project-Meetup/) Website.<br> 
+- <b>How to find us:</b>  Reserve your spot on the [Meetup](https://www.meetup.com/Dallas-The-Open-Web-Application-Security-Project-Meetup/) website.<br> 
 - <b>Everyone is welcome to join us at our chapter meetings.</b><br> 
 
 ## Participation
