@@ -18,7 +18,7 @@ Thank you for your interest in the Dallas OWASP chapter. Please consider joining
 ## OWASP Dallas March Meeting
 <b>When:</b><br> Tuesday March 23, 2021 - 12:00 PM to 1:00 PM CT<br><br>
 <b>Title:</b><br> Penetration Test at Scale: A Data-focused Approach<br><br>
-<b>Bio:</b><br> Phillip Pham is an experienced cybersecurity professional with more than a decade of experience working in Big Four Consulting, healthcare, financial, and online services industries. Phillip has led offensive security programs and large-scale pen test engagements. He is an Offensive Security Certified Professional (OSCP) and a SANS AppSec Fighter contributor (LinkedIn open-redirect disclosure; DOM-based XSS in the wild).
+<b>Bio:</b><br> Phillip Pham is an experienced cybersecurity professional with more than a decade of experience working in Big Four Consulting, healthcare, financial, and online services industries. Phillip has led offensive security programs and large-scale pen test engagements. He is an Offensive Security Certified Professional (OSCP) and a SANS AppSec Fighter contributor (LinkedIn open-redirect disclosure; DOM-based XSS in the wild).<br>
 <b>Info:</b><br> 
 Managing a global application penetration testing program across the Enterprise poses operational challenges. Extracting and leverage meaningful data can minimize those challenges. We’ll look at some key components to consider for a successful program.
 
