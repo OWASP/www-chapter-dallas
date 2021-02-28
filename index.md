@@ -15,26 +15,12 @@ postal-code: 75201
 ## Welcome
 Thank you for your interest in the Dallas OWASP chapter. Please consider joining us at our next [Meetup](https://www.meetup.com/Dallas-The-Open-Web-Application-Security-Project-Meetup/) event so we can get to know you better.
 
-## OWASP Dallas February Meeting
-<b>When:</b><br> Tuesday, February 23, 2021 - 12:00 PM to 1:00 PM CST<br><br>
-<b>Title:</b><br> Secure Coding Tournament<br><br>
+## OWASP Dallas March Meeting
+<b>When:</b><br> Tuesday March 23, 2021 - 12:00 PM to 1:00 PM CT<br><br>
+<b>Title:</b><br> Penetration Test at Scale: A Data-focused Approach<br><br>
+<b>Bio:</b><br> Phillip Pham is an experienced cybersecurity professional with more than a decade of experience working in Big Four Consulting, healthcare, financial, and online services industries. Phillip has led offensive security programs and large-scale pen test engagements. He is an Offensive Security Certified Professional (OSCP) and a SANS AppSec Fighter contributor (LinkedIn open-redirect disclosure; DOM-based XSS in the wild).
 <b>Info:</b><br> 
-We’ve partnered with Secure Code Warrior to bring you a defensive security-based tournament from a developer's perspective. The tournament allows you to test your skill against the other participants in a series of vulnerable code challenges that ask you to identify a problem, locate insecure code, and fix a vulnerability.
-
-You can find tournament step-by-step guide here: https://youtu.be/o8XhKK_eOOs
-
-The tournament is run virtually so you can join through your laptop from the most convenient location. Complete all the challenges and win prizes! Once you register, keep an eye out for your confirmation email with instructions and the Zoom link for the day of the tournament!
-
-Instructions for playing:
- - Register for the Secure Code Warrior platform here: <br>https://discover.securecodewarrior.com/OWASPDallas-tournament.html<br>
- - Once logged in, click “Tournaments”
- - Join the OWASP Dallas Secure Coding Tournament
-
-The Secure Code Warrior platform will be open before and after the tournament, so feel free to practice in the “Training” tab.
-
-Monitor the live leaderboard to see how you're performing!
-
-Please note: You must register at the link above in order to play.
+Managing a global application penetration testing program across the Enterprise poses operational challenges. Extracting and leverage meaningful data can minimize those challenges. We’ll look at some key components to consider for a successful program.
 
 - <b>Location:</b>  Regular meetings are currently online<br> 
 - <b>How to find us:</b>  Reserve your spot on the [Meetup](https://www.meetup.com/Dallas-The-Open-Web-Application-Security-Project-Meetup/) website.<br> 
