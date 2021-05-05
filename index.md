@@ -22,6 +22,8 @@ Thank you for your interest in the Dallas OWASP chapter. Please consider joining
 <b>Info:</b><br> 
 APIs are constantly changing and have access to an organization’s most sensitive data, and APIs now represent >80% of web traffic. This reality is attracting attackers that are finding new ways of getting what they’re looking for in custom-made APIs. As a response, OWASP has created a new Top 10 specific to API risks and this presentation will explain and discuss each item.
 
+[Slides](https://github.com/OWASP/www-chapter-dallas/raw/master/OWASP%20API%20Security%20Top%2010%20Explained.pptx)
+
 - <b>Location:</b>  Regular meetings are currently online<br> 
 - <b>How to find us:</b>  Reserve your spot on the [Meetup](https://www.meetup.com/Dallas-The-Open-Web-Application-Security-Project-Meetup/) website.<br> 
 - <b>Everyone is welcome to join us at our chapter meetings.</b><br> 
