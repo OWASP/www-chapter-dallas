@@ -15,14 +15,12 @@ postal-code: 75201
 ## Welcome
 Thank you for your interest in the Dallas OWASP chapter. Please consider joining us at our next [Meetup](https://www.meetup.com/Dallas-The-Open-Web-Application-Security-Project-Meetup/) event so we can get to know you better.
 
-## OWASP Dallas April Meeting
-<b>When:</b><br> Tuesday, April 27, 2021 - 12:00 PM to 1:00 PM CT<br><br>
-<b>Title:</b><br> OWASP API Security Top 10 - New List, New Threats<br><br>
-<b>Bio:</b><br> Ran Barth is a Principal Security Engineer at Salt Security. He has a passion for web application security, and he has spent his career deploying enterprise security solutions. Ran currently resides in Plano, TX and is originally from Israel.<br><br>
+## OWASP Dallas May Meeting
+<b>When:</b><br> Tuesday, May 25, 2021 - 12:00 PM to 1:00 PM CT<br><br>
+<b>Title:</b><br> Almost Intractable Application Security Problems and Solutions<br><br>
+<b>Bio:</b><br> Danny Harris is an accomplished cyber security professional with a specialization in software security. As Security Innovation’s Secure SDLC Center of Excellence (CoE) Lead, Danny conducts ongoing research on software security best practices to deliver world-class security assessments and expert training for the company’s diverse client base. He also leads the company’s Secure Development Practices Assessment Certification (SD-PAC) Program that verifies that technology providers for HP JetAdvantage Solutions incorporate security throughout their entire software development lifecycle. Danny helps organizations develop and grow security champion programs to engage and involve people in the security at their organizations. He has trained and presented to thousands on topics that range from software security metrics to the future of cyber security. Topics of expertise include web application and information security, security policy, application and network vulnerability assessments, intrusion detection, and incident response.<br><br>
 <b>Info:</b><br> 
-APIs are constantly changing and have access to an organization’s most sensitive data, and APIs now represent >80% of web traffic. This reality is attracting attackers that are finding new ways of getting what they’re looking for in custom-made APIs. As a response, OWASP has created a new Top 10 specific to API risks and this presentation will explain and discuss each item.
-
-[Slides](https://github.com/OWASP/www-chapter-dallas/raw/master/OWASP%20API%20Security%20Top%2010%20Explained.pptx)
+There are many security challenges that face software development teams. When considered as a whole, these challenges can seem intractable. This talk discusses some of the common, recurring application security challenges encountered in a variety of organizations that develop different kinds of software. The good news is that despite the challenges, there are real, workable solutions. The challenges and solutions covered in this talk are from a people, process, and technology perspective. Topics are based on the presenter’s experience helping organizations in a variety of industries improve their application security programs and build secure software.
 
 - <b>Location:</b>  Regular meetings are currently online<br> 
 - <b>How to find us:</b>  Reserve your spot on the [Meetup](https://www.meetup.com/Dallas-The-Open-Web-Application-Security-Project-Meetup/) website.<br> 
