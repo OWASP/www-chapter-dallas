@@ -15,6 +15,9 @@ postal-code: 75201
 ## Welcome
 Thank you for your interest in the Dallas OWASP chapter. Please consider joining us at our next [Meetup](https://www.meetup.com/Dallas-The-Open-Web-Application-Security-Project-Meetup/) event so we can get to know you better.
 
+### Upcoming Meeting information:
+{% include chapter_events.html group=page.meetup-group %}
+
 ## OWASP Dallas May Meeting
 <b>When:</b><br> Tuesday, May 25, 2021 - 12:00 PM to 1:00 PM CT<br><br>
 <b>Title:</b><br> Almost Intractable Application Security Problems and Solutions<br><br>
