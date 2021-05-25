@@ -25,6 +25,8 @@ Thank you for your interest in the Dallas OWASP chapter. Please consider joining
 <b>Info:</b><br> 
 There are many security challenges that face software development teams. When considered as a whole, these challenges can seem intractable. This talk discusses some of the common, recurring application security challenges encountered in a variety of organizations that develop different kinds of software. The good news is that despite the challenges, there are real, workable solutions. The challenges and solutions covered in this talk are from a people, process, and technology perspective. Topics are based on the presenter’s experience helping organizations in a variety of industries improve their application security programs and build secure software.
 
+[Slides](https://github.com/OWASP/www-chapter-dallas/blob/master/Almost%20Intractable%20Application%20Security%20Problems%20and%20Solutions%20-%20OWASP%20Dallas%2025%20May%202021.pdf)
+
 - <b>Location:</b>  Regular meetings are currently online.<br> 
 - <b>How to find us:</b>  Reserve your spot on the [Meetup](https://www.meetup.com/Dallas-The-Open-Web-Application-Security-Project-Meetup/) website.<br> 
 - <b>Everyone is welcome to join us at our chapter meetings.</b><br> 
