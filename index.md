@@ -30,6 +30,8 @@ Chapters are led by local leaders in accordance with the Chapter Policy. Financi
 Everyone is welcome and encouraged to participate!
 
 ## Previous Meeting Slides
+[October 2021 Slides](https://github.com/OWASP/www-chapter-dallas/blob/master/FAPI.pdf)
+
 [September 2021 Slides](https://github.com/OWASP/www-chapter-dallas/blob/master/Secure_by_Default.pdf)
 
 [June 2021 Slides](https://github.com/OWASP/www-chapter-dallas/blob/master/OWASP_develope_secure_software_with_OWASP_20210622.pdf)
